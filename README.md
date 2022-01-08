@@ -91,6 +91,6 @@ Refactoring helps make the code easier to read (i.e. less complex and easier to 
 ### Advantages and Disadvantages to Original or Refractored VBA script
 The biggest benefits to come from refactoring is the macro run times and how much easier it is to read than the original. After comparing the two I found the refractored code much easier to follow. In the case of the macro run times originally it was taking close to one second to run but now it is running in a hundredth of a second. Below are screenshots of the refractored run times for each year.
 
-![VBA_Challenge_png_2017](https://github.com/CodyMorin25/VBA-Challenge/tree/main/Resources/VBA_Challenge_2017)
-![VBA_Challenge_png_2018](https://github.com/CodyMorin25/VBA-Challenge/tree/main/Resources/VBA_Challenge_2018)
+![VBA_Challenge_png_2017](https://github.com/CodyMorin25/VBA-Challenge/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_png_2018](https://github.com/CodyMorin25/VBA-Challenge/blob/main/Resources/VBA_Challenge_2018.png)
 
