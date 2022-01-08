@@ -26,7 +26,7 @@ In my analysis before refactoring I copied code needed for this project includin
         tickerVolumes(i) = 0
         tickerStartingPrices(i) = 0
         tickerEndingPrices(i) = 0
-   Next i
+    Next i
    
         
     ''2b) Loop over all the rows in the spreadsheet.
